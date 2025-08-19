@@ -1,4 +1,4 @@
-# XAU/USD Model Training
+# Gold Trading Model
 
 This repository contains a Jupyter Notebook (`xau_usd.ipynb`) for training machine learning models on **XAU/USD (Gold vs. US Dollar)** historical data.  
 The focus is on **data preprocessing, feature engineering, model training, and evaluation**.  
@@ -49,8 +49,8 @@ This repository only provides the **training pipeline code**.
 1. Clone the repository:  
 
 ```bash
-git clone https://github.com/alyanumair/xau-usd-model-training.git
-cd xau-usd-model-training
+git clone https://github.com/alyanumair/gold-trading-model.git
+cd gold-trading-model
 ```
 
 2. Open the notebook:  
@@ -68,7 +68,6 @@ jupyter notebook xau_usd.ipynb
    - Evaluate performance  
 
 ---
-
 
 ## 📜 License
 
